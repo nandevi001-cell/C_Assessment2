@@ -4,5 +4,5 @@ int main()
 	int num;
 	printf("Enter a number:");
 	scanf("%d",&num);
-	printf("%d",num<=50);
+	printf("%d",num<50);
 }
