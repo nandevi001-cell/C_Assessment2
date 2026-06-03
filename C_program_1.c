@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    int num, sum,unit;
+    int num;
 	printf("enter the number:");
     scanf("%d", &num);
     printf("%d",num == 50);
